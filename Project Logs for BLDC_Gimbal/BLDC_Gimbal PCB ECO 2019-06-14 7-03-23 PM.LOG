@@ -1,0 +1,12 @@
+Added Component: Designator=E5(2-56, Mounting Hole)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "Feb 8, 2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "UVic AERO, KCMR"; VariantName = "[No Variations]"
+Added Component: Designator=E6(2-56, Mounting Hole)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "Feb 8, 2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "UVic AERO, KCMR"; VariantName = "[No Variations]"

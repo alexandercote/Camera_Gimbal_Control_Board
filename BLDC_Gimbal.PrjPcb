@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for BLDC_Gimbal
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -149,7 +149,7 @@ AnnotateScope=All
 AnnotateOrder=4
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -189,6 +189,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PLUESPCM
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for BLDC_Gimbal\Design Rule Check - BLDC_Gimbal.html
+DItemRevisionGUID=
 
 [SearchPath1]
 Path=C:\Engineering\Altium Shared Docs\Library\ExportIntLib\*.*
@@ -241,7 +245,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for BLDC_Gimbal
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs

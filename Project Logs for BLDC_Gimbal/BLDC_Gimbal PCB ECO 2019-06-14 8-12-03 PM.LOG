@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CURR_MON_12V Pin=U10-11
+Removed Pin From Net: NetName=CURR_MON_5V Pin=U10-15
+Added Pin To Net: NetName=CURR_MON_5V Pin=U10-11
+Added Pin To Net: NetName=CURR_MON_12V Pin=U10-15

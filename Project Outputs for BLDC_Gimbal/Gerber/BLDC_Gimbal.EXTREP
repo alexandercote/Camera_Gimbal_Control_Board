@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: BLDC_Gimbal.GBR   2019-06-22  9:39:47 PM
+Gerber File Extension Report For: BLDC_Gimbal.GBR   2019-06-22  11:45:12 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -10,8 +10,7 @@ Layer Extension     Layer Description
 .GTP                Top Paste                               
 .GTS                Top Solder                              
 .GTL                Top Layer                               
-.GP1                GND                                     
-.G1                 Power                                   
+.G2                 Power                                   
 .GBL                Bottom Layer                            
 .GBS                Bottom Solder                           
 .GBP                Bottom Paste                            

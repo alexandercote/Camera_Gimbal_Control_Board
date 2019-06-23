@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : E:\Projects\PCB_Projects\BLDC_Gimbal\Camera_Gimbal_Control_Board\BLDC_Gimbal.PcbDoc
 Date     : 2019-06-22
-Time     : 9:29:34 PM
+Time     : 10:09:14 PM
 
 Processing Rule : Clearance Constraint (Gap=0.152mm) (All),(All)
 Rule Violations :0
@@ -54,4 +54,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01

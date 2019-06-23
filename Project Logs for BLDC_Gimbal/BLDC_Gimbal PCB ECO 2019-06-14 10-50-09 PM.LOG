@@ -1,6 +1,0 @@
-Change Component Library : Designator=U1_Motor1_Pitch Old Library=BLDC_Gimbal_Prototype_Lib.SCHLIB New Library=BLDC_Gimbal_Lib.SCHLIB
-Change Component Library : Designator=U1_Motor2 Old Library=BLDC_Gimbal_Prototype_Lib.SCHLIB New Library=BLDC_Gimbal_Lib.SCHLIB
-Change Component Library : Designator=U1_Motor3 Old Library=BLDC_Gimbal_Prototype_Lib.SCHLIB New Library=BLDC_Gimbal_Lib.SCHLIB
-Added Pin To Net: NetName=GND Pin=U1_Motor1_Pitch-29
-Added Pin To Net: NetName=GND Pin=U1_Motor2-29
-Added Pin To Net: NetName=GND Pin=U1_Motor3-29

@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [BLDC_Gimbal.PcbDoc]
+   Generated File[BLDC_Gimbal-RoundHoles.TXT]
+   Generated File[BLDC_Gimbal-SlotHoles.TXT]
+   Generated File[BLDC_Gimbal.LDP]
+   Generated File[BLDC_Gimbal.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 9:39:49 PM On 2019-06-22

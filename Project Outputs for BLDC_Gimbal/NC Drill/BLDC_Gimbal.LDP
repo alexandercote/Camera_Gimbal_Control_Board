@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: E:\Projects\PCB_Projects\BLDC_Gimbal\Camera_Gimbal_Control_Board\BLDC_Gimbal.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=bldc_gimbal-roundholes.txt|DrillLayers=gtl,gp1,g1,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=bldc_gimbal-slotholes.txt|DrillLayers=gtl,gp1,g1,gbl

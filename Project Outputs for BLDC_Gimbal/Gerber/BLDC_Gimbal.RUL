@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: E:\Projects\PCB_Projects\BLDC_Gimbal\Camera_Gimbal_Control_Board\BLDC_Gimbal.PcbDoc
+RuleKind=Clearance|RuleName=Top Layer - GND|Scope=Board|Minimum=15.00
+RuleKind=Clearance|RuleName=gnd plane clereance|Scope=Board|Minimum=15.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
